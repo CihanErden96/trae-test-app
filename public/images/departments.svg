@@ -1,0 +1,15 @@
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#FFF8E1">
+    <!-- Bina/Departman ikonu -->
+    <rect x="5" y="8" width="20" height="18" stroke="#FFF8E1" stroke-width="2" fill="none" />
+    <rect x="8" y="12" width="3" height="3" />
+    <rect x="13" y="12" width="3" height="3" />
+    <rect x="19" y="12" width="3" height="3" />
+    <rect x="8" y="17" width="3" height="3" />
+    <rect x="13" y="17" width="3" height="3" />
+    <rect x="19" y="17" width="3" height="3" />
+    <rect x="13" y="22" width="4" height="4" />
+    <!-- Çatı -->
+    <path d="M3 8l12-5 12 5" stroke="#FFF8E1" stroke-width="2" fill="none" />
+  </g>
+</svg>

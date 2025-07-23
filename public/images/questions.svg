@@ -1,0 +1,8 @@
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#FFF8E1">
+    <!-- Soru işareti -->
+    <circle cx="15" cy="15" r="12" stroke="#FFF8E1" stroke-width="2" fill="none" />
+    <path d="M12 11c0-1.5 1.5-3 3-3s3 1.5 3 3c0 1-0.5 1.5-1.5 2l-1 1c-0.5 0.5-0.5 1-0.5 1.5" stroke="#FFF8E1" stroke-width="2" stroke-linecap="round" />
+    <circle cx="15" cy="21" r="1" />
+  </g>
+</svg>
