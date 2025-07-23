@@ -11,7 +11,7 @@ export default function Home() {
         <h1 className="page-title">Ana Sayfa</h1>
         <div className="profile-container">
           <Image
-            src="/images/profile.png"
+            src="/images/profile.svg"
             alt="Profil resmi"
             width={40}
             height={40}
